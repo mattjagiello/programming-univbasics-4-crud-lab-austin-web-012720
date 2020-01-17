@@ -1,7 +1,7 @@
 def create_an_empty_array
   []
 end
-
+  [1, 'two', :three, []]
 def create_an_array
 
 end
